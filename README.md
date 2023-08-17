@@ -1,5 +1,5 @@
 ### Olá! Eu sou Tiago Neri 🤙
-Estudando Desenvolvimento WEB
+Estudande de Programação
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0_nerii/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-pereira-neri-677404262/)
@@ -18,4 +18,4 @@ Estudando Desenvolvimento WEB
 
 
 
-Sou Tiago Neri, Estudante de Análise e desenvolvimento de sistemas atualmente no 3º período, Gostando cada vez mais da area da programação.
+Sou Tiago Neri, Estudante de Análise e desenvolvimento de sistemas atualmente no 4º período, Gostando cada vez mais da area da programação.
