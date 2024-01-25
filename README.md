@@ -18,4 +18,4 @@ Estudante de Programação
 
 
 
-Sou Tiago Neri, Estudante de Análise e desenvolvimento de sistemas atualmente no 4º período, Gostando cada vez mais da area da programação.
+Sou Tiago Neri, Estudante de Sistema da informação no 4º período, Gostando cada vez mais da area da programação.
