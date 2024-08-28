@@ -1,8 +1,9 @@
 ### Olá! Eu sou Tiago Neri 🤙
-Estudante de Programação
+Atualmente tenho conhecimento nessas Tecnologias: 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0_nerii/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-pereira-neri-677404262/)
+
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,cypress,kotlin,mysql&perline=6&theme=light)](https://skillicons.dev)
+
 
 ![Neri GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoNerii&show_icons=true&theme=shadow_red)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNerii&layout=compact&langs_count=7&theme=shadow_red"/>
