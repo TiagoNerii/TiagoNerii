@@ -9,4 +9,4 @@ Atualmente tenho conhecimento nessas Tecnologias:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNerii&layout=compact&langs_count=7&theme=shadow_red"/>
 
 
- Estudante de Sistema da informação no 5º período, Gostando cada vez mais da area da programação e automação de testes e2e.
+ Estudante de Sistema da informação no 7º período, Gostando cada vez mais da area da programação.
